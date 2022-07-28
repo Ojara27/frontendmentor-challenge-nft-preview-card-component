@@ -21,8 +21,8 @@ I tried to solve this challenge i found on[Frontend Mentor](https://www.frontend
 ![Design preview for the NFT preview card component coding challenge](./design/Screenshot520.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://frontendmentor-nft-preview-card-ojara.netlify.app/)
+- Live Site URL: [Add live site URL here](https://frontendmentor-nft-preview-card-ojara.netlify.app/)
 
 ### Built with
 
